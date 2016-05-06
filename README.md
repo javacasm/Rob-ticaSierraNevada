@@ -1,13 +1,15 @@
 # Robótica en el CEIP Sierra Nevada
 
+El objetivo de este taller es montar y programar un robot sencillo.
+
+Tendrá dos ruedas, cada una con su motor, lo que permitirá que haga giros complejos.
+
+Le añadiremos sensores de obstáculos y lo programaremos para que los evite y ¡para que no se caiga de la mesa!
 
 Estas son las piezas del robot que vamos a montar
 
 ![3](./imagenes/IMG_20160506_171835_.jpg)
 
-Tendrá dos ruedas, cada una con su motor, lo que permitirá que haga giros complejos.
-
-Le añadiremos sensores de obstáculos y lo programaremos para que los evite y ¡para que no se caiga de la mesa!
 
 ## Día 6-5-2016
 

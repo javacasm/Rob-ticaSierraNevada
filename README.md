@@ -28,6 +28,8 @@ A continuación preparamos el primer montaje dónde ya identificamos algunos de 
 Primero diseñándolo en el ordenador
 
 
+![3](./imagenes/MontajeLed.png)
+
 Para luego montarlo con los componentes
 
 ![4](./imagenes/IMG_20160506_163047_.jpg)
@@ -59,3 +61,5 @@ Hemos hecho un programa sencillo que nos avisa cuando detecta un obstáculo ence
 Para ello leemos el valor del sensor y hacemos una  comparación entre este valor y el esperado
 
 ![2](./imagenes/IMG_20160506_171822_.jpg)
+
+El próximo día conectamores y moveremos los motores...

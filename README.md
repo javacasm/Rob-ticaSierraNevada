@@ -63,3 +63,49 @@ Para ello leemos el valor del sensor y hacemos una  comparación entre este valo
 ![2](./imagenes/IMG_20160506_171822_.jpg)
 
 El próximo día conectamores y moveremos los motores...
+
+
+# Día 13-5-2016
+
+En este segundo día hemos estado trabajando con motores. En concreto hemos trabajado con motores de tipo servo.
+
+![2](./imagenes/IMG_20160513_173146.jpg)
+
+
+## Servos angulares
+
+Primero hemos estado montando y programando motores de posicionamiento angular, para lo que hemos estado repasando los distintos tipos de ángulos y luego hemos montado un programa que movía los motores como si fuera el limpiaparabrisas de un coche.
+
+
+El montaje ya les ha resultado muy sencillo...
+
+![MontajeLimpiaparabrisas.png](./imagenes/MontajeLimpiaparabrisas.png)
+
+Y el programa lo ha hecho ellos solos sin problema.
+
+![ProgramaLimpiaparabrisas.png](./imagenes/ProgramaLimpiaparabrisas.png)
+
+## Motores de rotación
+
+Luego hemos estado trabajando con los motores de rotación continua que serán los que muevan las ruedas de los robots
+
+![3](./imagenes/IMG_20160513_173041.jpg)
+
+El  montaje era sencillo, y solo han tenido que revisar dónde conectarlos y cuidar de que la placa esté alimentada con las pilas.
+
+![MontajeMotores.png](./imagenes/MontajeMotores.png)
+
+El programa que hemos hecho en esta parte ha sido sencillo y ya ha quedado preparado para unir todas las partes y hacer el programa del "robot que no se cae de la mesa", que haremos en la tercera sesión.
+
+![ProgramaMotores.png](./imagenes/ProgramaMotores.png)
+
+
+# Día 20-5-2016
+
+El objetivo de hoy es montar todo el robot y con sus programa probarlo.
+
+Haremos un programa que reune todo lo aprendido:
+
+![imagenes/ProgramaRobot.png](./imagenes/ProgramaRobot.png)
+
+![montaje](./imagenes/MontajeRobot.png)

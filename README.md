@@ -10,6 +10,9 @@ Estas son las piezas del robot que vamos a montar
 
 ![3](./imagenes/IMG_20160506_171835_.jpg)
 
+Las piezas que hemos usado están diseñadas e impresas con una impresora 3D, ~~(sus diseños)~~
+
+Todos los contenidos de este taller (diseños de lasnpiezas, programas y las herramientas que hemos usado) se distribuyen con licencia buerta CC, eso quiere decir que se pueden distribuir libremente, es más se agradece que se comparta. Podemos resumirlo en que es un anti-cipyright. Si te interesa el tema puedes leer más en ~~este enlace~~.
 
 ## Día 6-5-2016
 
@@ -109,3 +112,27 @@ Haremos un programa que reune todo lo aprendido:
 ![imagenes/ProgramaRobot.png](./imagenes/ProgramaRobot.png)
 
 ![montaje](./imagenes/MontajeRobot.png)
+
+# ¡Quiero hacerme un robot!
+
+## Estructura 
+
+Si te has fijado en las piezas habrás visto que no son muy complicadas y podrías hacerla con madera o cartón. Si quieres imprimirte un robot como el que hemos usado puedes encontrar los diseños ~~aquí ~~
+
+## Materiales
+
+La lista de materiales usados:
+* Freaduino
+* Cable USB
+* Sensor infrarrojo 
+* Cables
+* Portapilas
+* 2 x Servos de rotación continua
+
+## Programas
+
+* Parpadeo
+* Sensores
+* Motores
+* Limpiaparabrisas 
+* Robot NoTeCaigas

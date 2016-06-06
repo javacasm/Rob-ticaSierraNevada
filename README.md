@@ -10,9 +10,9 @@ Estas son las piezas del robot que vamos a montar
 
 ![3](./imagenes/IMG_20160506_171835_.jpg)
 
-Las piezas que hemos usado están diseñadas e impresas con una impresora 3D, ~~(sus diseños)~~
+Las piezas que hemos usado están diseñadas e impresas con una impresora 3D, ([sus diseños](https://github.com/javacasm/evoPrintBot))
 
-Todos los contenidos de este taller (diseños de lasnpiezas, programas y las herramientas que hemos usado) se distribuyen con licencia buerta CC, eso quiere decir que se pueden distribuir libremente, es más se agradece que se comparta. Podemos resumirlo en que es un anti-cipyright. Si te interesa el tema puedes leer más en ~~este enlace~~.
+Todos los contenidos de este taller (diseños de lasnpiezas, programas y las herramientas que hemos usado) se distribuyen con licencia buerta CC, eso quiere decir que se pueden distribuir libremente, es más se agradece que se comparta. Podemos resumirlo en que es un anti-copyright. Si te interesa el tema puedes leer más en ~~este enlace~~.
 
 ## Día 6-5-2016
 
@@ -107,32 +107,43 @@ El programa que hemos hecho en esta parte ha sido sencillo y ya ha quedado prepa
 
 El objetivo de hoy es montar todo el robot y con sus programa probarlo.
 
-Haremos un programa que reune todo lo aprendido:
+![a](./imagenes/IMG_20160520_162821.jpg)
 
-![imagenes/ProgramaRobot.png](./imagenes/ProgramaRobot.png)
+Haremos un programa que reune todo lo aprendido: motores y sensores.
 
 ![montaje](./imagenes/MontajeRobot.png)
 
+Usaremos un sensor infrarrojo y los motores. Cuando el sensor detecte que no hay suelo (o mesa debajo) invertirá el sentido de los motores y hará un giro.
+
+
+![imagenes/ProgramaRobot.png](./imagenes/ProgramaRobot.png)
+
+El robot queda montado así:
+
+
+
 # ¡Quiero hacerme un robot!
 
-## Estructura 
+Vamos a ver todos lo necesario para montarte tu robot.
 
-Si te has fijado en las piezas habrás visto que no son muy complicadas y podrías hacerla con madera o cartón. Si quieres imprimirte un robot como el que hemos usado puedes encontrar los diseños ~~aquí ~~
+## Estructura
+
+Si te has fijado en las piezas habrás visto que no son muy complicadas y podrías hacerla con madera o cartón. Si quieres imprimirte un robot como el que hemos usado puedes encontrar los diseños [aquí](https://github.com/javacasm/evoPrintBot)
 
 ## Materiales
 
 La lista de materiales usados:
 * Freaduino
 * Cable USB
-* Sensor infrarrojo 
+* Sensor infrarrojo
 * Cables
 * Portapilas
 * 2 x Servos de rotación continua
 
-## Programas
+## [Programas](https://github.com/javacasm/Rob-ticaSierraNevada/tree/master/proyectos)
 
-* Parpadeo
-* Sensores
-* Motores
-* Limpiaparabrisas 
-* Robot NoTeCaigas
+* [Parpadeo](https://raw.githubusercontent.com/javacasm/Rob-ticaSierraNevada/master/proyectos/Parpadeo.json)
+* [Sensores](https://raw.githubusercontent.com/javacasm/Rob-ticaSierraNevada/master/proyectos/Sensor_de_Luz.json)
+* [Motores](https://raw.githubusercontent.com/javacasm/Rob-ticaSierraNevada/master/proyectos/motores.json)
+* [Limpiaparabrisas](https://raw.githubusercontent.com/javacasm/Rob-ticaSierraNevada/master/proyectos/limpiaparabrisas.json)
+* [Robot NoTeCaigas](https://raw.githubusercontent.com/javacasm/Rob-ticaSierraNevada/master/proyectos/NoTeCaigas.json)

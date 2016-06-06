@@ -120,7 +120,7 @@ Usaremos un sensor infrarrojo y los motores. Cuando el sensor detecte que no hay
 
 El robot queda montado así:
 
-
+![1](./imagenes/IMG_20160606_140952.jpg)
 
 # ¡Quiero hacerme un robot!
 

@@ -12,7 +12,11 @@ Estas son las piezas del robot que vamos a montar
 
 Las piezas que hemos usado están diseñadas e impresas con una impresora 3D, ([sus diseños](https://github.com/javacasm/evoPrintBot))
 
-Todos los contenidos de este taller (diseños de lasnpiezas, programas y las herramientas que hemos usado) se distribuyen con licencia buerta CC, eso quiere decir que se pueden distribuir libremente, es más se agradece que se comparta. Podemos resumirlo en que es un anti-copyright. Si te interesa el tema puedes leer más en ~~este enlace~~.
+Para la programación usaremos [BitBloq](http://bitbloq.bq.com), una herramienta de programación para Arduino, creada por Bq, que usa bloques para la creación de programas . Es gratuita y de código abierto y podemos usarla online.
+
+![cc](./imagenes/CCbySQ_88x31.png)
+
+Todos los contenidos de este taller (diseños de las piezas, programas y las herramientas que hemos usado) se distribuyen con licencia buerta CC, eso quiere decir que se pueden distribuir libremente, es más se agradece que se comparta. Podemos resumirlo en que es un anti-copyright. Si te interesa el tema puedes leer más en [este enlace](http://www.psicobyte.com/descargas/CampusCientifico.pdf).
 
 ## Día 6-5-2016
 
@@ -113,8 +117,7 @@ Haremos un programa que reune todo lo aprendido: motores y sensores.
 
 ![montaje](./imagenes/MontajeRobot.png)
 
-Usaremos un sensor infrarrojo y los motores. Cuando el sensor detecte que no hay suelo (o mesa debajo) invertirá el sentido de los motores y hará un giro.
-
+Usaremos un sensor infrarrojo y los motores. Cuando el sensor detecte que no hay suelo (o mesa) debajo (leerá el valor 0) invertirá el sentido de los motores y hará un giro. en caso contrario avanzará.
 
 ![imagenes/ProgramaRobot.png](./imagenes/ProgramaRobot.png)
 
@@ -141,6 +144,8 @@ La lista de materiales usados:
 * 2 x Servos de rotación continua
 
 ## [Programas](https://github.com/javacasm/Rob-ticaSierraNevada/tree/master/proyectos)
+
+Todos los programas están hecho en [Bitbloq](http://bitbloq.bq.com)
 
 * [Parpadeo](https://raw.githubusercontent.com/javacasm/Rob-ticaSierraNevada/master/proyectos/Parpadeo.json)
 * [Sensores](https://raw.githubusercontent.com/javacasm/Rob-ticaSierraNevada/master/proyectos/Sensor_de_Luz.json)
